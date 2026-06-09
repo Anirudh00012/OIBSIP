@@ -105,6 +105,7 @@ Features:
 
 Displays converted value with proper unit symbol.
 Shows conversion result instantly.
+
 Module 5 – Input Validation Module
 Purpose:
 Ensure user enters valid temperature values.
