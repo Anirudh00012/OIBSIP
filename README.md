@@ -144,6 +144,7 @@ Reset functionality.
 Mobile-friendly interface.
 
 🚀 How to Run the Project
+
 Step 1
 
 Download or clone the project files.
