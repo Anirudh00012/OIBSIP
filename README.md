@@ -156,6 +156,7 @@ Ensure the following files are in the same folder:
 index.html
 style.css
 script.js
+
 Step 3
 
 Open:
