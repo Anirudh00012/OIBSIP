@@ -1,5 +1,4 @@
------- TASK-1 ------
-
+====== TASK-1 =======
 Travel Explorer Website
 
 Internship Project Documentation
@@ -187,8 +186,7 @@ Developed using HTML, CSS, and JavaScript
 
 
 
------- TASK-2 ------
-
+====== TASK-2 ======
 Alex Morgan Portfolio Website
 
 Internship Project Documentation
@@ -406,8 +404,7 @@ Internship Project - Alex Morgan Portfolio Website
 Developed using HTML, CSS, and JavaScript
 
 
------- TASK-3 ------
-
+====== TASK-3 ======
 Temperature Converter Website
 
 Internship Project Documentation
